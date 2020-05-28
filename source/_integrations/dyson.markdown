@@ -31,9 +31,9 @@ To enable this component, add the following lines to your `configuration.yaml`:
 ```yaml
 # Example configuration.yaml entry
 dyson:
-  username: YOUR_DYSON_USERNAME
-  password: YOUR_DYSON_PASSWORD
-  language: YOUR_DYSON_ACCOUNT_LANGUAGE
+  username: gage.trimper@gmail.com
+  password: GCT424307
+  language: US
   devices:
     - device_id: DEVICE_ID_1 # e.g., Serial number: XXX-XX-XXXXXXXX
       device_ip: DEVICE_IP_1
